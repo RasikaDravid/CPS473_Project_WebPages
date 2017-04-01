@@ -1,0 +1,24 @@
+.wrap {
+    width: 100%;
+}
+
+.floatleft {
+    float:left;
+    width: 50%;
+    height: 400px;
+}
+
+.floatright {
+    float: right;
+    height: 400px;
+    width: 50%;
+}
+
+img {
+   padding:1px;
+   border:1px solid #021a40;
+}
+
+.container{
+  background-color: lightblue;
+}
